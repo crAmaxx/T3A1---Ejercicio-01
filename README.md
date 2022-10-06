@@ -16,19 +16,19 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
  3.Salida: 
 -Resumen de los datos del estudiante consu promedio
 ~~~
----------------------------------------------------------+
--Estudiante: Cristhian Lopez Garcia                      |
--Grupo: 1A     Carrera ingeneria: informatica            |
-|                                                        |
--nOMBRE DE LA ASIGNATURA:                CALFIFICACIONES |
-fUNDAMENTOS DE LA PROGRAMACION           85              |
--mATEMATICAS dISCRETAS                   75              |
-----------------------------------------------------------
-PROMEDIO:                                80              |  
----------------------------------------------------------+
+----------------------------------------------------------+
+|-Estudiante: Cristhian Lopez Garcia                      |
+|-Grupo: 1A     Carrera ingeneria: informatica            |
+|                                                         |
+|-nOMBRE DE LA ASIGNATURA:                CALFIFICACIONES |
+|fUNDAMENTOS DE LA PROGRAMACION           85              |
+|-mATEMATICAS dISCRETAS                   75              |
+|----------------------------------------------------------
+|PROMEDIO:                                80              |  
+----------------------------------------------------------+
 ~~~
 
-##Etapa 3. Diseño de la solución.
+## Etapa 3. Diseño de la solución.
 
 Diagrama de clase
 ![](https://github.com/xXkiritsuguXx/T3A1---Ejercicio-01/blob/main/TEA1.png)
