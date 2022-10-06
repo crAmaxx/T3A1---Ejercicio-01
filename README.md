@@ -28,4 +28,4 @@ PROMEDIO:                                80              |
 ##Etapa 3. Diseño de la solución.
 
 Diagrama de clase
-![https://github.com/xXkiritsuguXx/T3A1---Ejercicio-01/blob/main/TEA1.png]
+![](https://github.com/xXkiritsuguXx/T3A1---Ejercicio-01/blob/main/TEA1.png)
