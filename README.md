@@ -4,8 +4,9 @@ si
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes.
 
 ##Etapa 2 Especificaiones
-1.Entrada: Dastos de estudiantes
- - Estudiantes nombre, Apellido, grupo, asignatura, carreara.
+
+1.Entrada:
+ -Estudiantes nombre, Apellido, grupo, asignatura, carreara.
  -Asignatura calificaioines, , nombre de la asiganatura
 2.Proceso:
 -Calcular el promedio de las calificaoines dinales
